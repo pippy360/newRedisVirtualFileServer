@@ -3,7 +3,7 @@
 
 using namespace std;
 
-TEST (SquareRootTest, PositiveNos) 
+TEST (Basic, Test) 
 {
-	cout << "Hello World!";
+	cout << "Hello World!" << endl;
 }
